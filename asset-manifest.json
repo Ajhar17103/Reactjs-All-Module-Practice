@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Reactjs-All-Module-Practice/static/css/main.605fa41e.chunk.css",
+    "main.js": "/Reactjs-All-Module-Practice/static/js/main.a8daf345.chunk.js",
+    "main.js.map": "/Reactjs-All-Module-Practice/static/js/main.a8daf345.chunk.js.map",
+    "runtime-main.js": "/Reactjs-All-Module-Practice/static/js/runtime-main.4ebfd468.js",
+    "runtime-main.js.map": "/Reactjs-All-Module-Practice/static/js/runtime-main.4ebfd468.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/Reactjs-All-Module-Practice/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.3cc8229f.chunk.js": "/Reactjs-All-Module-Practice/static/js/2.3cc8229f.chunk.js",
+    "static/js/2.3cc8229f.chunk.js.map": "/Reactjs-All-Module-Practice/static/js/2.3cc8229f.chunk.js.map",
+    "static/js/3.0b7bce2d.chunk.js": "/Reactjs-All-Module-Practice/static/js/3.0b7bce2d.chunk.js",
+    "static/js/3.0b7bce2d.chunk.js.map": "/Reactjs-All-Module-Practice/static/js/3.0b7bce2d.chunk.js.map",
+    "index.html": "/Reactjs-All-Module-Practice/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/Reactjs-All-Module-Practice/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.605fa41e.chunk.css.map": "/Reactjs-All-Module-Practice/static/css/main.605fa41e.chunk.css.map",
+    "static/js/2.3cc8229f.chunk.js.LICENSE.txt": "/Reactjs-All-Module-Practice/static/js/2.3cc8229f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ebfd468.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.3cc8229f.chunk.js",
+    "static/css/main.605fa41e.chunk.css",
+    "static/js/main.a8daf345.chunk.js"
+  ]
+}
