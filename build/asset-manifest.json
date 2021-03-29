@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Ajhar17103/Reactjs-All-Module-Practice/static/css/main.605fa41e.chunk.css",
+    "main.js": "/Ajhar17103/Reactjs-All-Module-Practice/static/js/main.a8daf345.chunk.js",
+    "main.js.map": "/Ajhar17103/Reactjs-All-Module-Practice/static/js/main.a8daf345.chunk.js.map",
+    "runtime-main.js": "/Ajhar17103/Reactjs-All-Module-Practice/static/js/runtime-main.e7e692d9.js",
+    "runtime-main.js.map": "/Ajhar17103/Reactjs-All-Module-Practice/static/js/runtime-main.e7e692d9.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/Ajhar17103/Reactjs-All-Module-Practice/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.3cc8229f.chunk.js": "/Ajhar17103/Reactjs-All-Module-Practice/static/js/2.3cc8229f.chunk.js",
+    "static/js/2.3cc8229f.chunk.js.map": "/Ajhar17103/Reactjs-All-Module-Practice/static/js/2.3cc8229f.chunk.js.map",
+    "static/js/3.0b7bce2d.chunk.js": "/Ajhar17103/Reactjs-All-Module-Practice/static/js/3.0b7bce2d.chunk.js",
+    "static/js/3.0b7bce2d.chunk.js.map": "/Ajhar17103/Reactjs-All-Module-Practice/static/js/3.0b7bce2d.chunk.js.map",
+    "index.html": "/Ajhar17103/Reactjs-All-Module-Practice/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/Ajhar17103/Reactjs-All-Module-Practice/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.605fa41e.chunk.css.map": "/Ajhar17103/Reactjs-All-Module-Practice/static/css/main.605fa41e.chunk.css.map",
+    "static/js/2.3cc8229f.chunk.js.LICENSE.txt": "/Ajhar17103/Reactjs-All-Module-Practice/static/js/2.3cc8229f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e7e692d9.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.3cc8229f.chunk.js",
+    "static/css/main.605fa41e.chunk.css",
+    "static/js/main.a8daf345.chunk.js"
+  ]
+}
